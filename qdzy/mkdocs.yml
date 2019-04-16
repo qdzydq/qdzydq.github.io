@@ -1,0 +1,14 @@
+site_name: 前端资源大全
+
+pages:
+  - 首页: index.md
+  - 前端资源: qdzy.md
+  - 前端源码: qdym.md
+  - 小程序源码: xcxym.md
+  - 优质软件: yzrj.md
+  - 与我联系: ywlx.md
+  - 免责声明: mzsm.md
+theme:
+  name: 'material'
+
+use_directory_urls : false
